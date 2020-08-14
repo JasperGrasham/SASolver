@@ -1,0 +1,14 @@
+import matplotlib as mpl
+from mpl_toolkits.mplot3d import Axes3D
+import matplotlib.pyplot as plt
+import numpy as np
+import math as math
+
+To run the script file:     cd Desktop/Jupyter_files/Tensorflow/Structural_Analysis_Solver
+Note the command:           python3 -m pip install matplotlib may also be required before running the script
+The script is ran with:     python3 Trampoline.py
+
+ALWAYS USE 'N' AND 'mm'
+
+
+
